@@ -1,4 +1,4 @@
-# Swiggy Sales Analysis Using SQL
+# Swiggy Sales Analysis Using MySQL
 
 ## Introduction
 
